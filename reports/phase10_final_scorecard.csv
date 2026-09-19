@@ -1,0 +1,15 @@
+area,status,evidence,risk,action
+Data integrity,PASS,"ATLAS TEST+INFORM extract; 78,297 E.coli-Levofloxacin rows; no synthetic data",low,
+Preprocessing,PASS,7 leakage-safe predictors; R=1/S=0; Intermediate dropped; encoder fit on train only,low,
+EDA,PASS,Phase-2 figures reproduce; class balance 66/34; age & country gradients,low,
+Baseline ML,PASS WITH NOTE,XGBoost ROC-AUC 0.694 / PR-AUC 0.547 (test),low,"Modest by design (metadata-only, leakage-free ceiling); RF intentionally untuned"
+Temporal evaluation,PASS,"Expanding window 2011-2017; stable, no degradation",low,
+PSI drift,PASS,Ref 2011-2013; Country/State/In-Out high drift; others low (Scenario A),low,
+SHAP,PASS,Sparse rep; 217 feats map to 7 predictors; additivity ok; log-odds; no causal language,low,
+Calibration,PASS,Platt on 2015; Brier 0.227->0.204; ECE 0.151->0.011; ROC/PR unchanged,low,
+Risk estimation,PASS,Heuristic bands 0.30/0.60; observed 0.21/0.41/0.66 monotonic; calibrated prob only,low,
+Dashboard,PASS,Loads frozen model+saved calibrator; all sections run; parity 1e-16,low,
+Leakage prevention,PASS,Map-based audit; forbidden vars absent; all encoded map to approved 7,low,
+Reproducibility,PASS WITH NOTE,Modules run in order; artifacts/figures/CSVs present; requirements complete,low,Raw 126MB xlsx needed only to regenerate Phase 1; random_forest.joblib is large (~638MB)
+Documentation,PASS,README + PHASE9_VIVA + per-phase reports + notebooks,low,
+Viva readiness,PASS,Per-phase viva Q&A; defensible claims; limitations visible,low,

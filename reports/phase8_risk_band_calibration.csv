@@ -1,0 +1,4 @@
+risk_band,count,mean_predicted,observed_resistance
+Low,6185,0.2088,0.2063
+Moderate,8354,0.4077,0.4142
+High,1236,0.6776,0.6642

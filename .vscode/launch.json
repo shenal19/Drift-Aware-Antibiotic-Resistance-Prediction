@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Verify setup",
+      "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/verify_setup.py",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Phase 10 audit",
+      "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/phase10_audit.py",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Run a phase module (edit module name)",
+      "type": "debugpy", "request": "launch",
+      "module": "src.modeling",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Streamlit dashboard",
+      "type": "debugpy", "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py"],
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}" },
+      "console": "integratedTerminal"
+    }
+  ]
+}

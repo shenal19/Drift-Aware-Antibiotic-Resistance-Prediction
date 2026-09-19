@@ -1,0 +1,218 @@
+encoded_feature,original_feature,mean_abs_shap
+Country_Mexico,Country,0.087886624
+Country_France,Country,0.08598285
+Age Group_65 to 84 Years,Age Group,0.07458024
+Country_Italy,Country,0.06780453
+Speciality_Medicine General,Speciality,0.06740334
+Gender_Female,Gender,0.063850656
+Age Group_0 to 2 Years,Age Group,0.06021704
+Source_GU: Urine,Source,0.050602447
+State_Missing,State,0.04960321
+Country_China,Country,0.046259984
+Source_CVS: Blood,Source,0.04608643
+Age Group_85 and Over,Age Group,0.038285762
+Country_Australia,Country,0.03787124
+Age Group_3 to 12 Years,Age Group,0.030597128
+Country_Venezuela,Country,0.028314447
+Country_United States,Country,0.027713208
+Country_Germany,Country,0.027646344
+Source_Bodily Fluids: Peritoneal,Source,0.026816824
+Country_Belgium,Country,0.026607284
+Gender_Male,Gender,0.02598956
+Country_Thailand,Country,0.024527969
+Country_Netherlands,Country,0.023016844
+Source_Respiratory: Sputum,Source,0.020721335
+Country_Czech Republic,Country,0.019229092
+Country_United Kingdom,Country,0.017795797
+Country_Denmark,Country,0.01700232
+Country_India,Country,0.016802205
+Country_South Africa,Country,0.016489752
+Country_Philippines,Country,0.016136738
+Country_Sweden,Country,0.015138771
+Speciality_Pediatric General,Speciality,0.013448247
+Age Group_13 to 18 Years,Age Group,0.011993343
+Country_Greece,Country,0.011584593
+Speciality_Medicine ICU,Speciality,0.010524398
+Country_Guatemala,Country,0.009811228
+In / Out Patient_Outpatient,In / Out Patient,0.009600936
+"Country_Korea, South",Country,0.009348022
+Source_Reproductive: Vagina,Source,0.009050506
+Source_Bodily Fluids: Abscess / Pus,Source,0.007819899
+Age Group_19 to 64 Years,Age Group,0.007329738
+In / Out Patient_None Given,In / Out Patient,0.0069158273
+Speciality_Surgery General,Speciality,0.0067230444
+Country_Turkey,Country,0.0065881545
+Country_Kuwait,Country,0.0065094465
+Country_Chile,Country,0.006203688
+Country_Canada,Country,0.006055806
+Country_Panama,Country,0.0059601637
+Country_Switzerland,Country,0.0059260633
+Speciality_Nursing Home / Rehab,Speciality,0.0057034986
+Speciality_Other,Speciality,0.0053531006
+Country_Spain,Country,0.0049068243
+Speciality_Emergency Room,Speciality,0.0040260535
+Source_INT: Wound,Source,0.004010459
+Country_Jordan,Country,0.003906857
+Source_GI: Appendix,Source,0.0037846423
+Country_Pakistan,Country,0.0035764752
+Country_Israel,Country,0.003411348
+Country_Croatia,Country,0.003407899
+Speciality_Pediatric ICU,Speciality,0.00336498
+Country_Finland,Country,0.0031328965
+In / Out Patient_Inpatient,In / Out Patient,0.0031297256
+Country_Russia,Country,0.0031180703
+Country_Ireland,Country,0.003015195
+Country_Nigeria,Country,0.0029631124
+Country_Hungary,Country,0.0028375261
+Source_GI: Abscess,Source,0.002801766
+Country_Argentina,Country,0.0026227706
+Source_Instruments: Catheters,Source,0.00260761
+State_Pennsylvania,State,0.0026044901
+Country_Austria,Country,0.0023758218
+Source_GI: Other,Source,0.0023609374
+Country_Portugal,Country,0.0022306505
+Country_Lithuania,Country,0.001927869
+State_California,State,0.0018736897
+Source_INT: Decubitus,Source,0.0017000177
+Country_El Salvador,Country,0.0016781025
+Speciality_Clinic / Office,Speciality,0.0015501969
+Source_GI: Gall Bladder,Source,0.0014209992
+Source_Bodily Fluids: Ulcer,Source,0.0014094476
+Speciality_Surgery ICU,Speciality,0.0013553028
+Country_Egypt,Country,0.001307985
+State_North Dakota,State,0.0012901075
+Source_Reproductive: Placenta,Source,0.001246085
+State_Minnesota,State,0.0012232492
+Source_GI: Rectum,Source,0.0011920964
+Speciality_None Given,Speciality,0.0011355879
+State_Georgia,State,0.0011082407
+Country_Honduras,Country,0.0010754272
+Country_Latvia,Country,0.0010723177
+Source_GU: Urinary Bladder,Source,0.001059362
+Source_Reproductive: Uterus,Source,0.0010356819
+State_New York,State,0.0010120217
+Source_Reproductive: Other,Source,0.0009415247
+Country_Colombia,Country,0.00093345426
+State_Mississippi,State,0.0008660936
+State_Vermont,State,0.00085133774
+State_Nebraska,State,0.0008008553
+Country_Kenya,Country,0.00073179335
+Source_HEENT: Ears,Source,0.0007233431
+Speciality_General Unspecified ICU,Speciality,0.0006927459
+Country_Slovenia,Country,0.00067273166
+Source_Respiratory: Endotracheal aspirate,Source,0.0006576874
+Source_Bodily Fluids: CSF,Source,0.00058018183
+Source_Bodily Fluids,Source,0.0005610072
+State_Wisconsin,State,0.0005410685
+Source_Respiratory: Bronchials,Source,0.00054041436
+Country_Poland,Country,0.00051864405
+State_Utah,State,0.00049490057
+Source_Bodily Fluids: Abdominal,Source,0.0004927907
+State_Oregon,State,0.0004784943
+Source_GI: Small Colon,Source,0.00044585066
+State_Maryland,State,0.00044503965
+State_South Dakota,State,0.00044319817
+State_Connecticut,State,0.0004422791
+Source_Respiratory: Trachea,Source,0.0004298573
+Source_HEENT: Mouth,Source,0.0004081801
+State_Florida,State,0.00038518116
+Country_infrequent_sklearn,Country,0.00038266805
+Source_Reproductive: Penis,Source,0.00038250082
+Age Group_Unknown,Age Group,0.0003740392
+Gender_Missing,Gender,0.00037354243
+Country_Norway,Country,0.00036983716
+State_Oklahoma,State,0.00036227662
+Source_GU: Ureter,Source,0.0003519856
+State_Michigan,State,0.00031877076
+State_Massachusetts,State,0.00031776226
+State_Iowa,State,0.00030266336
+Source_Bodily Fluids: Bile,Source,0.00029363218
+Source_Bodily Fluids: Synovial,Source,0.0002895489
+State_Arizona,State,0.00028929906
+Source_INT: Skin Ulcer,Source,0.00028198597
+Source_Bodily Fluids: Tissue,Source,0.00028041168
+Source_Genital/Urinary (GU),Source,0.00027377126
+Source_Respiratory: Other,Source,0.0002539046
+State_Maine,State,0.00022837584
+Source_GU: Other,Source,0.00020483628
+Source_GastroIntestinal (GI),Source,0.00020302739
+State_Missouri,State,0.00020075822
+Source_infrequent_sklearn,Source,0.00020067756
+State_Indiana,State,0.00019482695
+State_Kansas,State,0.00018230277
+Country_Slovak Republic,Country,0.00017658455
+Country_Romania,Country,0.00017500618
+Country_Malaysia,Country,0.00016063827
+Source_GI: Liver,Source,0.00015930718
+State_Montana,State,0.0001556567
+Source_Respiratory: Sinuses,Source,0.000154208
+Country_Saudi Arabia,Country,0.000114479684
+Source_Instruments: Drains / Tubes,Source,0.000104494415
+Country_Bulgaria,Country,0.00010040177
+Source_Bodily Fluids: Thoracentesis,Source,9.9314784e-05
+Source_GI: Stomach,Source,9.908601e-05
+Source_Respiratory: Bronchoalveolar lavage,Source,9.811905e-05
+Source_INT: Burn,Source,9.797956e-05
+Country_Namibia,Country,9.678859e-05
+State_New Jersey,State,8.179374e-05
+Source_GU: Prostate,Source,8.076101e-05
+Source_INT: Abscess,Source,8.0696875e-05
+Source_None Given,Source,8.0522725e-05
+Source_INT: Other,Source,7.506551e-05
+Source_Bodily Fluids: Feces/Stool,Source,7.408212e-05
+Country_Hong Kong,Country,6.899206e-05
+Source_GU: Urethra,Source,6.275862e-05
+State_South Carolina,State,6.117924e-05
+Country_Brazil,Country,5.7520287e-05
+Source_Respiratory: Lungs,Source,5.232341e-05
+State_Arkansas,State,4.9119048e-05
+Source_GI: Large Colon,Source,4.47989e-05
+Source_INT: Skin,Source,4.4758825e-05
+State_Louisiana,State,4.280738e-05
+State_Texas,State,4.203146e-05
+State_Washington,State,4.1060444e-05
+Source_GU: Kidneys,Source,3.495984e-05
+Source_HEENT,Source,3.1473846e-05
+Country_Nicaragua,Country,3.122634e-05
+State_Illinois,State,3.111873e-05
+State_Tennessee,State,2.870324e-05
+Source_Bodily Fluids: Other,Source,2.5286254e-05
+Source_Muscular: Muscle Tissue,Source,2.5250149e-05
+Source_CVS: Other,Source,1.7044707e-05
+Source_GI: Pancreas,Source,1.1362222e-05
+Source_HEENT:Throat,Source,8.339947e-06
+Source_Bodily Fluids: Exudate,Source,7.075477e-06
+Source_Instruments: Other,Source,6.169599e-06
+Country_Oman,Country,0.0
+State_Kentucky,State,0.0
+State_Colorado,State,0.0
+State_Delaware,State,0.0
+State_Hawaii,State,0.0
+Country_Tunisia,Country,0.0
+Country_Taiwan,Country,0.0
+State_Alabama,State,0.0
+Country_Singapore,Country,0.0
+Country_Morocco,Country,0.0
+Country_Lebanon,Country,0.0
+Country_Japan,Country,0.0
+Country_Jamaica,Country,0.0
+Country_Puerto Rico,Country,0.0
+State_North Carolina,State,0.0
+State_Virginia,State,0.0
+State_West Virginia,State,0.0
+Source_Bodily Fluids: Pleural,Source,0.0
+Source_Bodily Fluids: Aspirate,Source,0.0
+State_New Mexico,State,0.0
+State_New Hampshire,State,0.0
+State_Ohio,State,0.0
+Source_CardioVascular (CVS),Source,0.0
+Source_GI: Diverticulum,Source,0.0
+Source_HEENT: Other,Source,0.0
+Source_INT: Cellulitis/Erysipelas,Source,0.0
+Source_HEENT: Eyes,Source,0.0
+Source_HEENT: Nose,Source,0.0
+Source_Integumentary (INT),Source,0.0
+Source_Reproductive: Testes,Source,0.0
+Source_Reproductive,Source,0.0
+Source_Respiratory,Source,0.0
+Source_Skeletal: Bone,Source,0.0

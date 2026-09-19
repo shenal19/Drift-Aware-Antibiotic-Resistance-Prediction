@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+reports/phase4_parts/

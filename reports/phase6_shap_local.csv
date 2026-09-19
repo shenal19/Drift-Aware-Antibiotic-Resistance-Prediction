@@ -1,0 +1,15 @@
+example,original_feature,feature_value,grouped_shap_logodds,predicted_probability,predicted_class,true_target
+high_probability,Country,India,2.3848,0.9339,1,0
+high_probability,State,Missing,0.0495,0.9339,1,0
+high_probability,Gender,Male,0.1081,0.9339,1,0
+high_probability,Age Group,65 to 84 Years,0.0918,0.9339,1,0
+high_probability,Speciality,Medicine ICU,0.0786,0.9339,1,0
+high_probability,Source,CVS: Blood,-0.0756,0.9339,1,0
+high_probability,In / Out Patient,Inpatient,0.0054,0.9339,1,0
+low_probability,Country,Australia,-1.1486,0.0649,0,0
+low_probability,State,Missing,0.03,0.0649,0,0
+low_probability,Gender,Male,0.0301,0.0649,0,0
+low_probability,Age Group,3 to 12 Years,-0.7245,0.0649,0,0
+low_probability,Speciality,Pediatric General,-0.2414,0.0649,0,0
+low_probability,Source,Bodily Fluids: Peritoneal,-0.6196,0.0649,0,0
+low_probability,In / Out Patient,Inpatient,0.0011,0.0649,0,0

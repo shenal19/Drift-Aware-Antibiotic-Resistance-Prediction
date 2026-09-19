@@ -1,0 +1,25 @@
+check,result
+target_not_in_predictors,PASS
+predictors_exactly_approved,PASS
+all_encoded_map_to_approved,PASS
+no_unmapped_encoded_features,PASS
+forbidden_absent_from_predictors[Year],PASS
+forbidden_absent_from_original_map[Year],PASS
+forbidden_absent_from_predictors[target],PASS
+forbidden_absent_from_original_map[target],PASS
+forbidden_absent_from_predictors[Isolate Id],PASS
+forbidden_absent_from_original_map[Isolate Id],PASS
+forbidden_absent_from_predictors[Phenotype],PASS
+forbidden_absent_from_original_map[Phenotype],PASS
+forbidden_absent_from_predictors[Study],PASS
+forbidden_absent_from_original_map[Study],PASS
+forbidden_absent_from_predictors[Species],PASS
+forbidden_absent_from_original_map[Species],PASS
+forbidden_absent_from_predictors[Organism Group],PASS
+forbidden_absent_from_original_map[Organism Group],PASS
+forbidden_absent_from_predictors[Levofloxacin],PASS
+forbidden_absent_from_original_map[Levofloxacin],PASS
+forbidden_absent_from_predictors[Levofloxacin_I],PASS
+forbidden_absent_from_original_map[Levofloxacin_I],PASS
+processed_has_no_MIC_or_I_columns,PASS
+OVERALL_LEAKAGE_AUDIT,PASS

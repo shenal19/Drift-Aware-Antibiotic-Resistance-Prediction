@@ -4,3 +4,9 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 reports/phase4_parts/
+
+# Generated datasets and ML artifacts
+*.parquet
+*.joblib
+*.pkl
+*.pt
